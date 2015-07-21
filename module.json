@@ -6,7 +6,6 @@
 	"webmodules/jquery/min": {
 		"js": ["jquery.min.js"]
 	},
-	,
 	"webmodules/jquery/migrate": {
 		"js": ["jquery-migrate.js"]
 	}
