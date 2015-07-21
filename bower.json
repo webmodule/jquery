@@ -1,7 +1,7 @@
 {
   "name": "webmodules-jquery",
   "version": "2.1.4",
-  "description": "jQuery component",
+  "description": "jQuery bundle",
   "keywords": [
     "jquery",
     "component"
