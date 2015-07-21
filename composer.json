@@ -1,7 +1,7 @@
 {
-    "name": "components/jquery",
+    "name": "webmodules/jquery",
     "description": "jQuery JavaScript Library",
-    "type": "component",
+    "type": "library",
     "homepage": "http://jquery.com",
     "license": "MIT",
     "support": {

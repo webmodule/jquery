@@ -1,0 +1,9 @@
+{
+	"name": "webmodules/jquery",
+	"webmodules/jquery": {
+		"js": ["jquery.js"]
+	},
+	"webmodules/jquery/min": {
+		"js": ["jquery.min.js"]
+	}
+}
